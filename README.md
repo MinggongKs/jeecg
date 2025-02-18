@@ -8,5 +8,7 @@
 
 # 更新内容
 增加了JeecgBoot passwordChange任意密码重置漏洞模块检测
+
 增加了Jeecg-Boot getTotalData注入漏洞模块检测
+
 优化了窗体布局
