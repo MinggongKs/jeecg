@@ -1,4 +1,4 @@
-# JeecgBoot综合漏洞利用工具v4.5版
+# JeecgBoot综合漏洞利用工具
 
 jeecg综合漏洞利用工具,程序采用javafx开发,环境JDK 1.8 声明：仅用于授权测试，用户滥用造成的一切后果和作者无关 请遵守法律法规！ 漏洞收录如下：
 
@@ -43,6 +43,8 @@ Jeecg-Boot getTotalData注入漏洞
 因为其他原因，将不再继续项目维护
 
 # 更新内容
+JeecgBoot综合漏洞利用工具v4.5版
+
 增加了JeecgBoot passwordChange任意密码重置漏洞模块检测
 
 增加了Jeecg-Boot getTotalData注入漏洞模块检测
