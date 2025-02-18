@@ -42,8 +42,6 @@ Jeecg-Boot getTotalData注入漏洞
 
 因为其他原因，将不再继续项目维护
 
-项目工具版本更新地址：https://github.com/MinggongKs
-
 # 更新内容
 增加了JeecgBoot passwordChange任意密码重置漏洞模块检测
 
