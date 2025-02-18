@@ -1,5 +1,4 @@
 # JeecgBoot综合漏洞利用工具v4.5版
-jeecg综合漏洞利用工具
 
 声明：https://github.com/MInggongK 
 
@@ -8,5 +7,6 @@ jeecg综合漏洞利用工具
 项目工具版本更新地址：https://github.com/MinggongKs
 
 # 更新内容
-更新内容中....
-
+增加了JeecgBoot passwordChange任意密码重置漏洞模块检测
+增加了Jeecg-Boot getTotalData注入漏洞模块检测
+优化了窗体布局
